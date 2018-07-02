@@ -1,4 +1,4 @@
-# Bit Manipulation and Subroutines -8086 Assembly
+# Solved Exercises of Chapters for Bao Ji's Book
 This repository provides solutions to most of the questions in the exercise (at the back) of chapters for Bao Ji's Book. Sharing these with you, so that they might help you in understanding the concepts. 
 
 ## Reference Book
