@@ -3,7 +3,7 @@ This repository provides solutions to most of the programming questions in the e
 
 ## Reference Book
 
-*The questions are taken from the book [Assembly Language Programming by Belal Hashmi and Junaid Haroon](https://onlinebookpoint.blogspot.com/2016/10/assembly-language-programming-delivered.html)*
+*The questions are taken from the book [Assembly Language Programming by Bilal Hashmi and Junaid Haroon](https://onlinebookpoint.blogspot.com/2016/10/assembly-language-programming-delivered.html)*
 
 Its an excellent book for understanding the language and concepts of 8086 Assembly. It starts from the very basics and then takes you to advanced concepts in an efficient manner. Highly Recommended!
 
