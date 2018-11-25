@@ -61,6 +61,20 @@ You can check out these repositories too:
 - [🖥️ Bit Manipulation and Subroutines -8086 Assembly](https://github.com/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly)
 - [⏱️ Stop Watch in x86 Assembly Language](https://github.com/harismuneer/Stop-Watch_x86-Assembly)
 
+
+## Contributions Welcome
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
+
+- If you find any bug in the code, you can edit that file and [propose a change request](https://help.github.com/articles/editing-files-in-your-repository/). 
+
+- Since there's always more than one way to solve a problem so I would highly appreciate if you share your solution of the problem too. This way we will have more than one solutions to a given question. For the geeks not familiar with the Git environment, you can email me the solution files.
+
+- Also, when I was studying Assembly I didn't get enough time to solve all questions of Chp 9 and 10. That's why you can find solutions to only some of the questions from these chapters. Therefore, I would encourage you to share your solutions of Chp 9 and 10 with me 
+and I will add them to this repository. 
+
+For any of the above contributions that you make, I will give you credits for that and mention your name in the respective file :)
+
+
 -----------------------------------------------
 
 ## Author
@@ -71,10 +85,6 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-## Contributions Welcome
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
-
-If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 ## Issues
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/BelalHashmi-Assembly-Exercise-Solutions.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/BelalHashmi-Assembly-Exercise-Solutions/issues)
