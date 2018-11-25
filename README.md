@@ -65,14 +65,14 @@ You can check out these repositories too:
 ## Contributions Welcome
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
-- If you find any bug in the code, you can edit that file and [propose a change request](https://help.github.com/articles/editing-files-in-your-repository/). 
+- If you find any bug in the code, you can edit that file and [propose a change request](https://help.github.com/articles/editing-files-in-another-user-s-repository/). 
 
 - Since there's always more than one way to solve a problem so I would highly appreciate if you share your solution of the problem too. This way we will have more than one solutions to a given question. For the geeks not familiar with the Git environment, you can email me the solution files.
 
 - Also, when I was studying Assembly I didn't get enough time to solve all questions of Chp 9 and 10. That's why you can find solutions to only some of the questions from these chapters. Therefore, I would encourage you to share your solutions of Chp 9 and 10 with me 
 and I will add them to this repository. 
 
-For any of the above contributions that you make, I will give you credits for that and mention your name in the respective file :)
+For any contribution that you make to this repository, I will give you credits for that and will mention your name in the respective file :)
 
 
 -----------------------------------------------
