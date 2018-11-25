@@ -66,10 +66,6 @@ For any contribution that you make to this repository, I will give you credits f
 ## Note
 Kindly don't copy them in your assignments :P  
 
-Regards,
-
-[Haris Muneer](https://www.linkedin.com/in/harismuneer/)
-
 ## Related Repositories
 You can check out these repositories too:
 
