@@ -77,6 +77,8 @@ You can check out these repositories too:
 - [🖥️ Bit Manipulation and Subroutines -8086 Assembly](https://github.com/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly)
 - [⏱️ Stop Watch in x86 Assembly Language](https://github.com/harismuneer/Stop-Watch_x86-Assembly)
 
+-----------------------------------------------
+
 
 ## Author
 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
