@@ -47,21 +47,7 @@ To examine step by step working of the code, type
 afd chp4_03.com
 ```
 
-## Note
-Kindly don't copy them in your assignments :P  
-
-Regards,
-
-[Haris Muneer](https://www.linkedin.com/in/harismuneer/)
-
-## Related Repositories
-You can check out these repositories too:
-
-- [📌 Display Memory (Video Card Memory), Strings, Software Interrupts, Hardware Interrupts - 8086 Assembly](https://github.com/harismuneer/Graphical-Display-Memory-and-Software_Hardware-Interrupts-x86_Assembly)
-- [🖥️ Bit Manipulation and Subroutines -8086 Assembly](https://github.com/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly)
-- [⏱️ Stop Watch in x86 Assembly Language](https://github.com/harismuneer/Stop-Watch_x86-Assembly)
-
-
+-----------------------------------------------
 ## Contributions Welcome
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
@@ -76,6 +62,21 @@ For any contribution that you make to this repository, I will give you credits f
 
 
 -----------------------------------------------
+
+## Note
+Kindly don't copy them in your assignments :P  
+
+Regards,
+
+[Haris Muneer](https://www.linkedin.com/in/harismuneer/)
+
+## Related Repositories
+You can check out these repositories too:
+
+- [📌 Display Memory (Video Card Memory), Strings, Software Interrupts, Hardware Interrupts - 8086 Assembly](https://github.com/harismuneer/Graphical-Display-Memory-and-Software_Hardware-Interrupts-x86_Assembly)
+- [🖥️ Bit Manipulation and Subroutines -8086 Assembly](https://github.com/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly)
+- [⏱️ Stop Watch in x86 Assembly Language](https://github.com/harismuneer/Stop-Watch_x86-Assembly)
+
 
 ## Author
 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
