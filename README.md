@@ -53,7 +53,7 @@ afd chp4_03.com
 
 - If you find any bug in the code, you can edit that file and [propose a change request](https://help.github.com/articles/editing-files-in-another-user-s-repository/). 
 
-- Since there's always more than one way to solve a problem so I would highly appreciate if you share your solution of the problem too. This way we will have more than one solutions to a given question. For the geeks not familiar with the Git environment, you can email me the solution files.
+- Since there's always more than one way to solve a problem so I would highly appreciate if you share your solution of the problem too. This way we will have more than one solutions to a given question. For the geeks not familiar with the Git environment, you can email me the solution files at *haris.muneer5@gmail.com
 
 - Also, when I was studying Assembly I didn't get enough time to solve all questions of Chp 9 and 10. That's why you can find solutions to only some of the questions from these chapters. Therefore, I would encourage you to share your solutions of Chp 9 and 10 with me 
 and I will add them to this repository. 
