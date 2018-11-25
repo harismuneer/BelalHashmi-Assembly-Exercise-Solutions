@@ -57,9 +57,9 @@ Regards,
 ## Related Repositories
 You can check out these repositories too:
 
-- ![📌 Display Memory (Video Card Memory), Strings, Software Interrupts, Hardware Interrupts - 8086 Assembly](https://github.com/harismuneer/Graphical-Display-Memory-and-Software_Hardware-Interrupts-x86_Assembly)
-- ![🖥️ Bit Manipulation and Subroutines -8086 Assembly](https://github.com/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly)
-- ![⏱️ Stop Watch in x86 Assembly Language](https://github.com/harismuneer/Stop-Watch_x86-Assembly)
+- [📌 Display Memory (Video Card Memory), Strings, Software Interrupts, Hardware Interrupts - 8086 Assembly](https://github.com/harismuneer/Graphical-Display-Memory-and-Software_Hardware-Interrupts-x86_Assembly)
+- [🖥️ Bit Manipulation and Subroutines -8086 Assembly](https://github.com/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly)
+- [⏱️ Stop Watch in x86 Assembly Language](https://github.com/harismuneer/Stop-Watch_x86-Assembly)
 
 -----------------------------------------------
 
