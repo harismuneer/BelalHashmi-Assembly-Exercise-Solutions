@@ -1,4 +1,4 @@
-# Solved Exercises of Chapters for Bao Ji's Book
+# 💻 Solved Exercises of Chapters for Bao Ji's Book
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/BelalHashmi-Assembly-Exercise-Solutions.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/BelalHashmi-Assembly-Exercise-Solutions/fork)
@@ -53,6 +53,7 @@ Kindly don't copy them in your assignments :P
 Regards,
 
 [Haris Muneer](https://www.linkedin.com/in/harismuneer/)
+
 
 -----------------------------------------------
 
