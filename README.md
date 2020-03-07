@@ -1,4 +1,4 @@
-# 💻 Solved Exercises of Chapters for Bao Ji's Book
+# 💻 Solved Exercises of Chapters for Belal Hashmi's Book
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
