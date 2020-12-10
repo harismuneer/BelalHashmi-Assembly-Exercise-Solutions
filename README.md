@@ -47,7 +47,6 @@ To examine step by step working of the code, type
 afd chp4_03.com
 ```
 
------------------------------------------------
 ## Contributions Welcome
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
@@ -59,9 +58,6 @@ afd chp4_03.com
 and I will add them to this repository. 
 
 For any contribution that you make to this repository, I will give you credits for that and will mention your name in the respective file :)
-
-
------------------------------------------------
 
 ## Note
 Kindly don't copy them in your assignments :P  
