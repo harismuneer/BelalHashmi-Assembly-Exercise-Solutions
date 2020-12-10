@@ -22,7 +22,7 @@ Its an excellent book for understanding the language and concepts of 8086 Assemb
 
 2- Install DOSBOX from this link: [Download DOSBOX Emulator](https://www.dosbox.com/download.php?main=1)
 
-3- After complete installation, go to DOSBOX installation directory and run "DOSBox 0.74 Options.bat". This will save you from the pain       of searching the configuration file yourself and will open that file for you.
+3- After complete installation, go to DOSBOX installation directory and run "DOSBox 0.74 Options.bat". This will save you from the pain of searching the configuration file yourself and will open that file for you.
 Copy these lines at the end of that file:
 ```
 mount c: c:\assembly_code 
