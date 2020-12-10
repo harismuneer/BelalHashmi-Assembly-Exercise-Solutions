@@ -84,6 +84,12 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
+## Support
+
+- 🌟  **$9.99/month (recommended)** ❯ [Two cups of Caffè latte (coffee) every month →](https://tinyurl.com/Haris-OSS-Coffee)
+- 🚀  **$99.99 (one-time sponsor)** ❯ [Support an hour of open-source code →](https://tinyurl.com/Haris-OSS-Platinum)
+- 🔰  **$49.99 (one-time sponsor)** ❯ [Support an hour of maintenance →](https://tinyurl.com/Haris-OSS-Gold)
+- ☕️  **$9.99 (one-time sponsor)** ❯ [Lunch/coffee →](https://tinyurl.com/Haris-OSS-Silver)
 
 ## Issues
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/BelalHashmi-Assembly-Exercise-Solutions.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/BelalHashmi-Assembly-Exercise-Solutions/issues)
