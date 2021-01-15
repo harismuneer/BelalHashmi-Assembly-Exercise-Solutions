@@ -1,3 +1,5 @@
+; Solution to this problem was developed by https://github.com/farhana1i
+
 [org 0x0100]
 
     jmp main
@@ -146,11 +148,13 @@ mov     ax, [es:9*4]
 mov     [oldisr], ax
 mov     ax, [es:9*4+2]
 mov     [oldisr+2], ax
+
 ; hook keyboard interrupt
 cli
 mov     word [es:9*4], kbISR
 mov     [es:9*4+2], cs
 sti
+
 ; to make program TSR
 mov     dx, main
 add     dx, 15
