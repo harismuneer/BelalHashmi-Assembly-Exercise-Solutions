@@ -99,31 +99,32 @@ return:			popa
 ;------------------------------ Solution without using strlen ----------------------------------------------
 
 
-
 strcpy:
-	push bp
-	mov bp, sp
-	push ax
-	push si
-	push di
+    push bp
+    mov bp, sp
+    push es
+    push si
+    push di
 
-	mov di, [bp+4] ; load the destination string in di
-	mov si, [bp+6] ; load the source string in si
+    mov di, [bp+4] ; load the destination string in di
+    mov si, [bp+6] ; load the source string in si
 
-	copyStr:
-		mov al, [si] ; as one character takes one byte, we use al
-		mov [di], al ; moving the character to the destination
-		add si, 1 ; incrementing si to move to next memory location
-		add di, 1 ; incrementing di to move to next memory location
-		cmp byte [si], 0 ; comparing if we have reached the end of the source
-		jne copyStr ; if not keep copying
-		mov byte [di], 0 ; put a 0 at the end of the destination to null terminate it
+    push ds ; push the value of data segment
+    pop es ; pop it into es
 
-	pop di
-	pop si
-	pop ax
-	pop bp
-	ret 4 ; two parameters were passed
+    cld ; clears the direction flag which means 1 or 2 will be added to both si and di
+    
+    copyStr:
+        movsb ; moves ds:si to es:di
+        cmp byte [si], 0 ; checking if we have reached the end of the source
+        jne copyStr ; if not keep copying
+        mov byte [di], 0 ; put a 0 at the end of the destination to null terminate it
+
+    pop es
+    pop di
+    pop si
+    pop bp
+    ret 4 ; two parameters were passed
 
 ;-----------------------------------------------------------------------------------------------------------
 
