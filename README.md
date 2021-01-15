@@ -59,6 +59,8 @@ and I will add them to this repository.
 
 For any contribution that you make to this repository, I will give you credits for that and will mention your name in the respective file :)
 
+## Contributors
+
 So far following contributions are done by some awesome individuals:
 - [Farhan Ali](https://github.com/farhana1i) - contributed solution for Chp 9: Q3 and Q8
 
