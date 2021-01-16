@@ -1,3 +1,5 @@
+; solution developed by https://github.com/PySaqib
+
 [org 0x0100]
 
 mov ax, 0                   ; setting AX to 0.
