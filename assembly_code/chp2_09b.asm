@@ -1,3 +1,5 @@
+; solution developed by https://github.com/PySaqib
+
 [org 0x0100]
 
 mov [0x0FFF], ax            ; copies the data from offset AX into offset 0x0FFF
