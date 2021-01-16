@@ -6,7 +6,7 @@ add ax, 6  ; Adding 6 to ax
 add ax, 6  ; Adding 6 to ax
 add ax, 6  ; Adding 6 to ax
 add ax, 6  ; Adding 6 to ax
-; We only perform the add instruction 6 times because we initialized ax with 6
+; We only perform the add instruction 5 times because we initialized ax with 6
 
 mov ax, 0x4c00
 int 0x21
