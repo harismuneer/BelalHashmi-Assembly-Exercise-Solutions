@@ -63,7 +63,7 @@ For any contribution that you make to this repository, I will give you credits f
 
 So far following contributions are done by some awesome individuals:
 - [Farhan Ali](https://github.com/farhana1i) - contributed solutions for Chp 9: Q3 and Q8
-- [Saqib Ali](https://github.com/PySaqib) - contributed solutions for Chp2: Q9 and Q10
+- [Saqib Ali](https://github.com/PySaqib) - contributed solutions for Chp 2: Q9 and Q10
 
 ## Note
 Kindly don't copy them in your assignments :P  
