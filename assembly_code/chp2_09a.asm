@@ -1,3 +1,5 @@
+; solution developed by https://github.com/PySaqib
+
 [org 0x0100]
 
 mov ax, [0x0025]            ; copies the data from offset 0025 into AX
